@@ -1,4 +1,4 @@
-## Sequences
+## Community Sequences
 * "Why Not Just..." by johnswentworth 	 [EPUB](output/whynotjust.epub) 	 [PDF](pdfs/whynotjust.pdf)  
 * 2020 Less Wrong Darwin Game by lsusr 	 [EPUB](output/2020lesswrongdarwingame.epub) 	 [PDF](pdfs/2020lesswrongdarwingame.pdf)  
 * 2021 Less Wrong Darwin Game by lsusr 	 [EPUB](output/2021lesswrongdarwingame.epub) 	 [PDF](pdfs/2021lesswrongdarwingame.pdf)  
