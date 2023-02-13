@@ -158,7 +158,7 @@ The LessWrong Community Sequences are now available in an easily accessible EPUB
 * Takeoff and Takeover in the Past and Future by Daniel Kokotajlo 	 [EPUB](output/takeoffandtakeoverinthepastandfuture.epub) 	 [PDF](pdfs/takeoffandtakeoverinthepastandfuture.pdf)  
 * Tensions in Truthseeking by Raemon 	 [EPUB](output/tensionsintruthseeking.epub) 	 [PDF](pdfs/tensionsintruthseeking.pdf)  
 * The Bayesian Conspiracy by Eliezer Yudkowsky 	 [EPUB](output/thebayesianconspiracy.epub) 	 [PDF](pdfs/bayesianconspiracythe.pdf)  
-* The Blue-Minimizing Robot by Scott Alexander 	 [EPUB](output/theblueminimizingrobot.epub) 	 [PDF](pdfs/blueminimizingrobotthe.pdf)  
+* The Blue-Minimizing Robot by Scott Alexander 	 [EPUB](output/theblueminimizingrobot.epub) 	 [PDF](pdfs/blue.pdf)  
 * The Causes of Power-seeking and Instrumental Convergence by TurnTrout 	 [EPUB](output/thecausesofpowerseekingandinstrumentalconvergence.epub) 	 [PDF](pdfs/causesofpowerseekingandinstrumentalconvergencethe.pdf)  
 * The Coordination Frontier by Raemon 	 [EPUB](output/thecoordinationfrontier.epub) 	 [PDF](pdfs/coordinationfrontierthe.pdf)  
 * The Darwin Game by Zvi 	 [EPUB](output/thedarwingame.epub) 	 [PDF](pdfs/darwingamethe.pdf)  
