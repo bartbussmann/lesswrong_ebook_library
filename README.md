@@ -1,3 +1,6 @@
+# LessWrong Ebook Library
+The LessWrong Community Sequences are now available in an easily accessible EPUB and PDF format, providing an alternative way to read the content offline on e-readers. The ebooks preserve the original visual content, including images and math, while offering a comfortable reading experience with features like adjustable font sizes and glare-free screens. The [source code](lwsequence_to_epub.py) for the scraping and generation of the ebooks, written in Python, is also available for those interested in generating their own copies.
+
 ## Community Sequences
 * "Why Not Just..." by johnswentworth 	 [EPUB](output/whynotjust.epub) 	 [PDF](pdfs/whynotjust.pdf)  
 * 2020 Less Wrong Darwin Game by lsusr 	 [EPUB](output/2020lesswrongdarwingame.epub) 	 [PDF](pdfs/2020lesswrongdarwingame.pdf)  
