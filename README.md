@@ -1,327 +1,327 @@
 ## Sequences
-* ["Why Not Just..."](output/whynotjust.epub) by johnswentworth
-* [2020 Less Wrong Darwin Game](output/2020lesswrongdarwingame.epub) by lsusr
-* [2021 Less Wrong Darwin Game](output/2021lesswrongdarwingame.epub) by lsusr
-* [2021 MIRI Conversations](output/2021miriconversations.epub) by Rob Bensinger
-* [2022 MIRI Alignment Discussion](output/2022mirialignmentdiscussion.epub) by Rob Bensinger
-* [A Tour of AI Timelines](output/atourofaitimelines.epub) by anson.ho
-* [AGI-assisted Alignment](output/agiassistedalignment.epub) by Tor Økland Barstad
-* [AI Alignment Unwrapped](output/aialignmentunwrapped.epub) by adamShimi
-* [AI Alignment Writing Day 2018](output/aialignmentwritingday2018.epub) by Ben Pace
-* [AI Alignment Writing Day 2019](output/aialignmentwritingday2019.epub) by Ben Pace
-* [AI Defense in Depth: A Layman's Guide](output/aidefenseindepthalaymansguide.epub) by Carlos Ramirez
-* [AI Races and Macrostrategy](output/airacesandmacrostrategy.epub) by Michaël Trazzi
-* [AI Safety Subprojects](output/aisafetysubprojects.epub) by Stuart_Armstrong
-* [AI Timelines](output/aitimelines.epub) by Daniel Kokotajlo
-* [Against Rationalization II](output/againstrationalizationii.epub) by dspeyer
-* [Agency: What it is and why it matters](output/agencywhatitisandwhyitmatters.epub) by Daniel Kokotajlo
-* [Alignment For Foxes](output/alignmentforfoxes.epub) by Lone Pine
-* [Alignment Newsletter](output/alignmentnewsletter.epub) by Rohin Shah
-* [Alignment Stream of Thought](output/alignmentstreamofthought.epub) by leogao
-* [Alternate Alignment Ideas](output/alternatealignmentideas.epub) by abramdemski
-* [An Inside View of AI Alignment](output/aninsideviewofaialignment.epub) by Ansh Radhakrishnan
-* [Anthropic Decision Theory](output/anthropicdecisiontheory.epub) by Stuart_Armstrong
-* [Antimemetics](output/antimemetics.epub) by lsusr
-* [Argument and Analysis](output/argumentandanalysis.epub) by Scott Alexander
-* [Assorted Maths](output/assortedmaths.epub) by Donald Hobson
-* [Babble and Prune](output/babbleandprune.epub) by alkjash
-* [Basic Foundations for Agent Models](output/basicfoundationsforagentmodels.epub) by johnswentworth
-* [Bayeswatch](output/bayeswatch.epub) by lsusr
-* [Becoming Stronger](output/becomingstronger.epub) by TurnTrout
-* [Breaking Down Goal-Directed Behaviour](output/breakingdowngoaldirectedbehaviour.epub) by Oliver Sourbut
-* [CDT=EDT?](output/cdtedt.epub) by abramdemski
-* [CFAR Handbook](output/cfarhandbook.epub) by CFAR!Duncan
-* [COVID-19 Updates and Analysis](output/covid19updatesandanalysis.epub) by Zvi
-* [Calculus in Game and Decision Theory](output/calculusingameanddecisiontheory.epub) by Heighn
-* [Cartesian Frames](output/cartesianframes.epub) by Scott Garrabrant
-* [Categorisation and Concepts](output/categorisationandconcepts.epub) by Scott Alexander
-* [Changing your Mind With Memory Reconsolidation](output/changingyourmindwithmemoryreconsolidation.epub) by Matt Goldenberg
-* [Civilization & Cooperation](output/civilizationcooperation.epub) by Duncan_Sabien
-* [Community and Cooperation](output/communityandcooperation.epub) by Scott Alexander
-* [Comprehensive Information Gatherings](output/comprehensiveinformationgatherings.epub) by adamShimi
-* [Concept Extrapolation](output/conceptextrapolation.epub) by Stuart_Armstrong
-* [Concept Safety](output/conceptsafety.epub) by Kaj_Sotala
-* [Concepts in formal epistemology](output/conceptsinformalepistemology.epub) by habryka
-* [Consequences of Logical Induction](output/consequencesoflogicalinduction.epub) by abramdemski
-* [Counterfactual Planning](output/counterfactualplanning.epub) by Koen.Holtman
-* [Cryonics Signup Guide](output/cryonicssignupguide.epub) by mingyuan
-* [D&D.Sci](output/ddsci.epub) by abstractapplic
-* [Daily Insights](output/dailyinsights.epub) by Matthew Barnett
-* [Decision Analysis](output/decisionanalysis.epub) by pranomostro
-* [Decision Theory: Newcomb's Problem](output/decisiontheorynewcombsproblem.epub) by AnnaSalamon
-* [Deconfusing Goal-Directedness](output/deconfusinggoaldirectedness.epub) by adamShimi
-* [Drawing Less Wrong](output/drawinglesswrong.epub) by Raemon
-* [Economics and Efficiency](output/economicsandefficiency.epub) by Scott Alexander
-* [Embedded Agency](output/embeddedagency.epub) by abramdemski
-* [Epistemic Cookbook for Alignment](output/epistemiccookbookforalignment.epub) by adamShimi
-* [Ethical Injunctions](output/ethicalinjunctions.epub) by pranomostro
-* [Experiments in instrumental convergence](output/experimentsininstrumentalconvergence.epub) by Edouard Harris
-* [Factored Cognition](output/factoredcognition.epub) by Rafael Harth
-* [Filk](output/filk.epub) by Gordon Seidoh Worley
-* [Filtered Evidence, Filtered Arguments](output/filteredevidencefilteredarguments.epub) by abramdemski
-* [Finite Factored Sets](output/finitefactoredsets.epub) by Scott Garrabrant
-* [Fixed Points](output/fixedpoints.epub) by Scott Garrabrant
-* [Forecasting Newsletter](output/forecastingnewsletter.epub) by NunoSempere
-* [Framing Practicum](output/framingpracticum.epub) by johnswentworth
-* [Fun Theory](output/funtheory.epub) by Eliezer Yudkowsky
-* [Futurism and Forecasting](output/futurismandforecasting.epub) by Scott Alexander
-* [Gears of Aging](output/gearsofaging.epub) by johnswentworth
-* [Generalised models](output/generalisedmodels.epub) by Stuart_Armstrong
-* [Hammertime](output/hammertime.epub) by alkjash
-* [Highly Advanced Epistemology 101 for Beginners](output/highlyadvancedepistemology101forbeginners.epub) by Eliezer Yudkowsky
-* [Hufflepuff Cynicism](output/hufflepuffcynicism.epub) by abramdemski
-* [Hypotheses and Hunches](output/hypothesesandhunches.epub) by Scott Alexander
-* [Hypothesis Subspace](output/hypothesissubspace.epub) by Paul Bricman
-* [If I were a well-intentioned AI...](output/ifiwereawellintentionedai.epub) by Stuart_Armstrong
-* [Immoral Mazes](output/immoralmazes.epub) by Zvi
-* [Inadequate Equilibria](output/inadequateequilibria.epub) by Eliezer Yudkowsky
-* [Inconsistent Values and Extrapolation](output/inconsistentvaluesandextrapolation.epub) by niplav
-* [Independent AI Research](output/independentairesearch.epub) by Jemist
-* [Insights from Dath Ilan](output/insightsfromdathilan.epub) by David Udell
-* [Instrumental Rationality](output/instrumentalrationality.epub) by Unknown
-* [Interpretability Research for the Most Important Century](output/interpretabilityresearchforthemostimportantcentury.epub) by Evan R. Murphy
-* [Intro to Brain-Like-AGI Safety](output/introtobrainlikeagisafety.epub) by Steven Byrnes
-* [Intro to Naturalism](output/introtonaturalism.epub) by LoganStrohl
-* [Introduction to Game Theory](output/introductiontogametheory.epub) by Scott Alexander
-* [Intuitive Introduction to Functional Decision Theory](output/intuitiveintroductiontofunctionaldecisiontheory.epub) by Heighn
-* [Iterated Amplification](output/iteratedamplification.epub) by paulfchristiano
-* [Keep your beliefs cruxy and your frames explicit](output/keepyourbeliefscruxyandyourframesexplicit.epub) by Raemon
-* [Keith Stanovich: What Intelligence Tests Miss](output/keithstanovichwhatintelligencetestsmiss.epub) by Kaj_Sotala
-* [Kickstarter for Coordinated Action](output/kickstarterforcoordinatedaction.epub) by Raemon
-* [Law-Following AI](output/lawfollowingai.epub) by Cullen_OKeefe
-* [LessWrong Political Prerequisites](output/lesswrongpoliticalprerequisites.epub) by Raemon
-* [Lessons from Isaac](output/lessonsfromisaac.epub) by adamShimi
-* [Living Luminously](output/livingluminously.epub) by Alicorn
-* [Logical Counterfactuals and Proposition graphs](output/logicalcounterfactualsandpropositiongraphs.epub) by Donald Hobson
-* [Luna Lovegood](output/lunalovegood.epub) by lsusr
-* [Map and Territory Cross-Posts](output/mapandterritorycrossposts.epub) by Gordon Seidoh Worley
-* [Mechanics of Tradecraft](output/mechanicsoftradecraft.epub) by lc
-* [Mechanism Design](output/mechanismdesign.epub) by pranomostro
-* [Medical Paradigms](output/medicalparadigms.epub) by ChristianKl
-* [Metaethics](output/metaethics.epub) by pranomostro
-* [Model Comparison](output/modelcomparison.epub) by johnswentworth
-* [Modeling Transformative AI Risk (MTAIR)](output/modelingtransformativeairiskmtair.epub) by Davidmanheim
-* [Moral uncertainty](output/moraluncertainty.epub) by MichaelA
-* [Multiagent Models of Mind](output/multiagentmodelsofmind.epub) by Kaj_Sotala
-* [Murphy's Quest](output/murphysquest.epub) by alkjash
-* [My AI Risk Model](output/myairiskmodel.epub) by peterbarnett
-* [NLP and other Self-Improvement](output/nlpandotherselfimprovement.epub) by ChristianKl
-* [Naturalized Induction](output/naturalizedinduction.epub) by pranomostro
-* [Networking: The Abridged Game Manual](output/networkingtheabridgedgamemanual.epub) by Severin T. Seehrich
-* [Neural Networks, More than you wanted to Show](output/neuralnetworksmorethanyouwantedtoshow.epub) by Donald Hobson
-* [No-Nonsense Metaethics](output/nononsensemetaethics.epub) by lukeprog
-* [Notes on Virtues](output/notesonvirtues.epub) by David Gross
-* [Novum Organum](output/novumorganum.epub) by Ruby
-* [Open Threads](output/openthreads.epub) by Raemon
-* [Parables and Prayers](output/parablesandprayers.epub) by Scott Alexander
-* [Partial Agency](output/partialagency.epub) by abramdemski
-* [Participating in a Covid-19 Vaccination Trial](output/participatinginacovid19vaccinationtrial.epub) by ejacob
-* [Phenomenological AI Alignment](output/phenomenologicalaialignment.epub) by Gordon Seidoh Worley
-* [Philosophy Corner](output/philosophycorner.epub) by Charlie Steiner
-* [Pointing at Normativity](output/pointingatnormativity.epub) by abramdemski
-* [Politics and Pragmatics](output/politicsandpragmatics.epub) by Scott Alexander
-* [Positivism and Self Deception](output/positivismandselfdeception.epub) by pranomostro
-* [Practical Guide to Anthropics](output/practicalguidetoanthropics.epub) by Stuart_Armstrong
-* [Pragmatic AI Safety](output/pragmaticaisafety.epub) by Dan H
-* [Prediction-Driven Collaborative Reasoning Systems](output/predictiondrivencollaborativereasoningsystems.epub) by ozziegooen
-* [Predictions & Self-awareness](output/predictionsselfawareness.epub) by John_Maxwell
-* [Priming](output/priming.epub) by pranomostro
-* [Privacy Practices](output/privacypractices.epub) by Raemon
-* [Probability and Predictions](output/probabilityandpredictions.epub) by Scott Alexander
-* [Project Hufflepuff](output/projecthufflepuff.epub) by Raemon
-* [Pseudorandomness Contest](output/pseudorandomnesscontest.epub) by Eric Neyman
-* [Quantitative Finance](output/quantitativefinance.epub) by lsusr
-* [Quantum Physics](output/quantumphysics.epub) by pranomostro
-* [Rational Ritual](output/rationalritual.epub) by Raemon
-* [Rationality and Philosophy](output/rationalityandphilosophy.epub) by lukeprog
-* [Rationality in Research](output/rationalityinresearch.epub) by Jemist
-* [Reframing Impact](output/reframingimpact.epub) by TurnTrout
-* [Replacing Guilt](output/replacingguilt.epub) by So8res
-* [Research Journals](output/researchjournals.epub) by Shoshannah Tekofsky
-* [Research and Reviews](output/researchandreviews.epub) by Scott Alexander
-* [Reviews for the Alignment Forum](output/reviewsforthealignmentforum.epub) by adamShimi
-* [Risks from Learned Optimization](output/risksfromlearnedoptimization.epub) by evhub
-* [Selection Theorems: Modularity](output/selectiontheoremsmodularity.epub) by TheMcDouglas
-* [Shard Theory](output/shardtheory.epub) by Quintin Pope
-* [Share Models, Not Beliefs](output/sharemodelsnotbeliefs.epub) by Ben Pace
-* [Short Stories](output/shortstories.epub) by lsusr
-* [Slack and the Sabbath](output/slackandthesabbath.epub) by Zvi
-* [So You Want To Colonize The Universe](output/soyouwanttocolonizetheuniverse.epub) by Diffractor
-* [Some comments on the CAIS paradigm](output/somecommentsonthecaisparadigm.epub) by particlemania
-* [Staying Sane While Taking Ideas Seriously](output/stayingsanewhiletakingideasseriously.epub) by orthonormal
-* [Studies and Statistics](output/studiesandstatistics.epub) by Scott Alexander
-* [Subagents and impact measures](output/subagentsandimpactmeasures.epub) by Stuart_Armstrong
-* [Sunzi's《Methods of War》](output/sunzismethodsofwar.epub) by lsusr
-* [Takeoff and Takeover in the Past and Future](output/takeoffandtakeoverinthepastandfuture.epub) by Daniel Kokotajlo
-* [Tensions in Truthseeking](output/tensionsintruthseeking.epub) by Raemon
-* [The Bayesian Conspiracy](output/thebayesianconspiracy.epub) by Eliezer Yudkowsky
-* [The Blue-Minimizing Robot](output/theblueminimizingrobot.epub) by Scott Alexander
-* [The Causes of Power-seeking and Instrumental Convergence](output/thecausesofpowerseekingandinstrumentalconvergence.epub) by TurnTrout
-* [The Coordination Frontier](output/thecoordinationfrontier.epub) by Raemon
-* [The Darwin Game](output/thedarwingame.epub) by Zvi
-* [The Grueling Subject](output/thegruelingsubject.epub) by ChristianKl
-* [The Inside View (Podcast)](output/theinsideviewpodcast.epub) by Michaël Trazzi
-* [The LessWrong Review](output/thelesswrongreview.epub) by Raemon
-* [The Most Important Century](output/themostimportantcentury.epub) by HoldenKarnofsky
-* [The Science of Winning at Life](output/thescienceofwinningatlife.epub) by lukeprog
-* [Thoughts on Corrigibility](output/thoughtsoncorrigibility.epub) by TurnTrout
-* [Three Worlds Collide](output/threeworldscollide.epub) by Eliezer Yudkowsky
-* [Through the Haskell Jungle](output/throughthehaskelljungle.epub) by adamShimi
-* [Toying With Goal-Directedness](output/toyingwithgoaldirectedness.epub) by adamShimi
-* [Transformative AI and Compute](output/transformativeaiandcompute.epub) by lennart
-* [Treacherous Turn](output/treacherousturn.epub) by Michaël Trazzi
-* [Trends in Machine Learning](output/trendsinmachinelearning.epub) by Jsevillamol
-* [Understanding Machine Learning](output/understandingmachinelearning.epub) by Rafael Harth
-* [Using Credence Calibration for Everything](output/usingcredencecalibrationforeverything.epub) by ChristianKl
-* [Value Learning](output/valuelearning.epub) by Rohin Shah
-* [Voting Theory Primer for Rationalists](output/votingtheoryprimerforrationalists.epub) by Jameson Quinn
-* [What You Can and Can't Learn from Games](output/whatyoucanandcantlearnfromgames.epub) by Davis_Kingsley
-* [Winding My Way Through Alignment](output/windingmywaythroughalignment.epub) by David Udell
-* [Zen and Rationality](output/zenandrationality.epub) by Gordon Seidoh Worley
-* [[Redwood Research] Causal Scrubbing](output/redwoodresearchcausalscrubbing.epub) by LawrenceC
-* [base-line to enlightenment - the physical route to better](output/baselinetoenlightenmentthephysicalroutetobetter.epub) by leggi
+* "Why Not Just..." by johnswentworth 	 [EPUB](output/whynotjust.epub) 	 [PDF](pdfs/whynotjust.pdf)  
+* 2020 Less Wrong Darwin Game by lsusr 	 [EPUB](output/2020lesswrongdarwingame.epub) 	 [PDF](pdfs/2020lesswrongdarwingame.pdf)  
+* 2021 Less Wrong Darwin Game by lsusr 	 [EPUB](output/2021lesswrongdarwingame.epub) 	 [PDF](pdfs/2021lesswrongdarwingame.pdf)  
+* 2021 MIRI Conversations by Rob Bensinger 	 [EPUB](output/2021miriconversations.epub) 	 [PDF](pdfs/2021miriconversations.pdf)  
+* 2022 MIRI Alignment Discussion by Rob Bensinger 	 [EPUB](output/2022mirialignmentdiscussion.epub) 	 [PDF](pdfs/2022mirialignmentdiscussion.pdf)  
+* A Tour of AI Timelines by anson.ho 	 [EPUB](output/atourofaitimelines.epub) 	 [PDF](pdfs/atourofaitimelines.pdf)  
+* AGI-assisted Alignment by Tor Økland Barstad 	 [EPUB](output/agiassistedalignment.epub) 	 [PDF](pdfs/agiassistedalignment.pdf)  
+* AI Alignment Unwrapped by adamShimi 	 [EPUB](output/aialignmentunwrapped.epub) 	 [PDF](pdfs/aialignmentunwrapped.pdf)  
+* AI Alignment Writing Day 2018 by Ben Pace 	 [EPUB](output/aialignmentwritingday2018.epub) 	 [PDF](pdfs/aialignmentwritingday2018.pdf)  
+* AI Alignment Writing Day 2019 by Ben Pace 	 [EPUB](output/aialignmentwritingday2019.epub) 	 [PDF](pdfs/aialignmentwritingday2019.pdf)  
+* AI Defense in Depth: A Layman's Guide by Carlos Ramirez 	 [EPUB](output/aidefenseindepthalaymansguide.epub) 	 [PDF](pdfs/aidefenseindepthalaymansguide.pdf)  
+* AI Races and Macrostrategy by Michaël Trazzi 	 [EPUB](output/airacesandmacrostrategy.epub) 	 [PDF](pdfs/airacesandmacrostrategy.pdf)  
+* AI Safety Subprojects by Stuart_Armstrong 	 [EPUB](output/aisafetysubprojects.epub) 	 [PDF](pdfs/aisafetysubprojects.pdf)  
+* AI Timelines by Daniel Kokotajlo 	 [EPUB](output/aitimelines.epub) 	 [PDF](pdfs/aitimelines.pdf)  
+* Against Rationalization II by dspeyer 	 [EPUB](output/againstrationalizationii.epub) 	 [PDF](pdfs/againstrationalizationii.pdf)  
+* Agency: What it is and why it matters by Daniel Kokotajlo 	 [EPUB](output/agencywhatitisandwhyitmatters.epub) 	 [PDF](pdfs/agencywhatitisandwhyitmatters.pdf)  
+* Alignment For Foxes by Lone Pine 	 [EPUB](output/alignmentforfoxes.epub) 	 [PDF](pdfs/alignmentforfoxes.pdf)  
+* Alignment Newsletter by Rohin Shah 	 [EPUB](output/alignmentnewsletter.epub) 	 [PDF](pdfs/alignmentnewsletter.pdf)  
+* Alignment Stream of Thought by leogao 	 [EPUB](output/alignmentstreamofthought.epub) 	 [PDF](pdfs/alignmentstreamofthought.pdf)  
+* Alternate Alignment Ideas by abramdemski 	 [EPUB](output/alternatealignmentideas.epub) 	 [PDF](pdfs/alternatealignmentideas.pdf)  
+* An Inside View of AI Alignment by Ansh Radhakrishnan 	 [EPUB](output/aninsideviewofaialignment.epub) 	 [PDF](pdfs/aninsideviewofaialignment.pdf)  
+* Anthropic Decision Theory by Stuart_Armstrong 	 [EPUB](output/anthropicdecisiontheory.epub) 	 [PDF](pdfs/anthropicdecisiontheory.pdf)  
+* Antimemetics by lsusr 	 [EPUB](output/antimemetics.epub) 	 [PDF](pdfs/antimemetics.pdf)  
+* Argument and Analysis by Scott Alexander 	 [EPUB](output/argumentandanalysis.epub) 	 [PDF](pdfs/argumentandanalysis.pdf)  
+* Assorted Maths by Donald Hobson 	 [EPUB](output/assortedmaths.epub) 	 [PDF](pdfs/assortedmaths.pdf)  
+* Babble and Prune by alkjash 	 [EPUB](output/babbleandprune.epub) 	 [PDF](pdfs/babbleandprune.pdf)  
+* Basic Foundations for Agent Models by johnswentworth 	 [EPUB](output/basicfoundationsforagentmodels.epub) 	 [PDF](pdfs/basicfoundationsforagentmodels.pdf)  
+* Bayeswatch by lsusr 	 [EPUB](output/bayeswatch.epub) 	 [PDF](pdfs/bayeswatch.pdf)  
+* Becoming Stronger by TurnTrout 	 [EPUB](output/becomingstronger.epub) 	 [PDF](pdfs/becomingstronger.pdf)  
+* Breaking Down Goal-Directed Behaviour by Oliver Sourbut 	 [EPUB](output/breakingdowngoaldirectedbehaviour.epub) 	 [PDF](pdfs/breakingdowngoaldirectedbehaviour.pdf)  
+* CDT=EDT? by abramdemski 	 [EPUB](output/cdtedt.epub) 	 [PDF](pdfs/cdtedt.pdf)  
+* CFAR Handbook by CFAR!Duncan 	 [EPUB](output/cfarhandbook.epub) 	 [PDF](pdfs/cfarhandbook.pdf)  
+* COVID-19 Updates and Analysis by Zvi 	 [EPUB](output/covid19updatesandanalysis.epub) 	 [PDF](pdfs/covid19updatesandanalysis.pdf)  
+* Calculus in Game and Decision Theory by Heighn 	 [EPUB](output/calculusingameanddecisiontheory.epub) 	 [PDF](pdfs/calculusingameanddecisiontheory.pdf)  
+* Cartesian Frames by Scott Garrabrant 	 [EPUB](output/cartesianframes.epub) 	 [PDF](pdfs/cartesianframes.pdf)  
+* Categorisation and Concepts by Scott Alexander 	 [EPUB](output/categorisationandconcepts.epub) 	 [PDF](pdfs/categorisationandconcepts.pdf)  
+* Changing your Mind With Memory Reconsolidation by Matt Goldenberg 	 [EPUB](output/changingyourmindwithmemoryreconsolidation.epub) 	 [PDF](pdfs/changingyourmindwithmemoryreconsolidation.pdf)  
+* Civilization & Cooperation by Duncan_Sabien 	 [EPUB](output/civilizationcooperation.epub) 	 [PDF](pdfs/civilizationcooperation.pdf)  
+* Community and Cooperation by Scott Alexander 	 [EPUB](output/communityandcooperation.epub) 	 [PDF](pdfs/communityandcooperation.pdf)  
+* Comprehensive Information Gatherings by adamShimi 	 [EPUB](output/comprehensiveinformationgatherings.epub) 	 [PDF](pdfs/comprehensiveinformationgatherings.pdf)  
+* Concept Extrapolation by Stuart_Armstrong 	 [EPUB](output/conceptextrapolation.epub) 	 [PDF](pdfs/conceptextrapolation.pdf)  
+* Concept Safety by Kaj_Sotala 	 [EPUB](output/conceptsafety.epub) 	 [PDF](pdfs/conceptsafety.pdf)  
+* Concepts in formal epistemology by habryka 	 [EPUB](output/conceptsinformalepistemology.epub) 	 [PDF](pdfs/conceptsinformalepistemology.pdf)  
+* Consequences of Logical Induction by abramdemski 	 [EPUB](output/consequencesoflogicalinduction.epub) 	 [PDF](pdfs/consequencesoflogicalinduction.pdf)  
+* Counterfactual Planning by Koen.Holtman 	 [EPUB](output/counterfactualplanning.epub) 	 [PDF](pdfs/counterfactualplanning.pdf)  
+* Cryonics Signup Guide by mingyuan 	 [EPUB](output/cryonicssignupguide.epub) 	 [PDF](pdfs/cryonicssignupguide.pdf)  
+* D&D.Sci by abstractapplic 	 [EPUB](output/ddsci.epub) 	 [PDF](pdfs/ddsci.pdf)  
+* Daily Insights by Matthew Barnett 	 [EPUB](output/dailyinsights.epub) 	 [PDF](pdfs/dailyinsights.pdf)  
+* Decision Analysis by pranomostro 	 [EPUB](output/decisionanalysis.epub) 	 [PDF](pdfs/decisionanalysis.pdf)  
+* Decision Theory: Newcomb's Problem by AnnaSalamon 	 [EPUB](output/decisiontheorynewcombsproblem.epub) 	 [PDF](pdfs/decisiontheorynewcombsproblem.pdf)  
+* Deconfusing Goal-Directedness by adamShimi 	 [EPUB](output/deconfusinggoaldirectedness.epub) 	 [PDF](pdfs/deconfusinggoaldirectedness.pdf)  
+* Drawing Less Wrong by Raemon 	 [EPUB](output/drawinglesswrong.epub) 	 [PDF](pdfs/drawinglesswrong.pdf)  
+* Economics and Efficiency by Scott Alexander 	 [EPUB](output/economicsandefficiency.epub) 	 [PDF](pdfs/economicsandefficiency.pdf)  
+* Embedded Agency by abramdemski 	 [EPUB](output/embeddedagency.epub) 	 [PDF](pdfs/embeddedagency.pdf)  
+* Epistemic Cookbook for Alignment by adamShimi 	 [EPUB](output/epistemiccookbookforalignment.epub) 	 [PDF](pdfs/epistemiccookbookforalignment.pdf)  
+* Ethical Injunctions by pranomostro 	 [EPUB](output/ethicalinjunctions.epub) 	 [PDF](pdfs/ethicalinjunctions.pdf)  
+* Experiments in instrumental convergence by Edouard Harris 	 [EPUB](output/experimentsininstrumentalconvergence.epub) 	 [PDF](pdfs/experimentsininstrumentalconvergence.pdf)  
+* Factored Cognition by Rafael Harth 	 [EPUB](output/factoredcognition.epub) 	 [PDF](pdfs/factoredcognition.pdf)  
+* Filk by Gordon Seidoh Worley 	 [EPUB](output/filk.epub) 	 [PDF](pdfs/filk.pdf)  
+* Filtered Evidence, Filtered Arguments by abramdemski 	 [EPUB](output/filteredevidencefilteredarguments.epub) 	 [PDF](pdfs/filteredevidencefilteredarguments.pdf)  
+* Finite Factored Sets by Scott Garrabrant 	 [EPUB](output/finitefactoredsets.epub) 	 [PDF](pdfs/finitefactoredsets.pdf)  
+* Fixed Points by Scott Garrabrant 	 [EPUB](output/fixedpoints.epub) 	 [PDF](pdfs/fixedpoints.pdf)  
+* Forecasting Newsletter by NunoSempere 	 [EPUB](output/forecastingnewsletter.epub) 	 [PDF](pdfs/forecastingnewsletter.pdf)  
+* Framing Practicum by johnswentworth 	 [EPUB](output/framingpracticum.epub) 	 [PDF](pdfs/framingpracticum.pdf)  
+* Fun Theory by Eliezer Yudkowsky 	 [EPUB](output/funtheory.epub) 	 [PDF](pdfs/funtheory.pdf)  
+* Futurism and Forecasting by Scott Alexander 	 [EPUB](output/futurismandforecasting.epub) 	 [PDF](pdfs/futurismandforecasting.pdf)  
+* Gears of Aging by johnswentworth 	 [EPUB](output/gearsofaging.epub) 	 [PDF](pdfs/gearsofaging.pdf)  
+* Generalised models by Stuart_Armstrong 	 [EPUB](output/generalisedmodels.epub) 	 [PDF](pdfs/generalisedmodels.pdf)  
+* Hammertime by alkjash 	 [EPUB](output/hammertime.epub) 	 [PDF](pdfs/hammertime.pdf)  
+* Highly Advanced Epistemology 101 for Beginners by Eliezer Yudkowsky 	 [EPUB](output/highlyadvancedepistemology101forbeginners.epub) 	 [PDF](pdfs/highlyadvancedepistemology101forbeginners.pdf)  
+* Hufflepuff Cynicism by abramdemski 	 [EPUB](output/hufflepuffcynicism.epub) 	 [PDF](pdfs/hufflepuffcynicism.pdf)  
+* Hypotheses and Hunches by Scott Alexander 	 [EPUB](output/hypothesesandhunches.epub) 	 [PDF](pdfs/hypothesesandhunches.pdf)  
+* Hypothesis Subspace by Paul Bricman 	 [EPUB](output/hypothesissubspace.epub) 	 [PDF](pdfs/hypothesissubspace.pdf)  
+* If I were a well-intentioned AI... by Stuart_Armstrong 	 [EPUB](output/ifiwereawellintentionedai.epub) 	 [PDF](pdfs/ifiwereawellintentionedai.pdf)  
+* Immoral Mazes by Zvi 	 [EPUB](output/immoralmazes.epub) 	 [PDF](pdfs/immoralmazes.pdf)  
+* Inadequate Equilibria by Eliezer Yudkowsky 	 [EPUB](output/inadequateequilibria.epub) 	 [PDF](pdfs/inadequateequilibria.pdf)  
+* Inconsistent Values and Extrapolation by niplav 	 [EPUB](output/inconsistentvaluesandextrapolation.epub) 	 [PDF](pdfs/inconsistentvaluesandextrapolation.pdf)  
+* Independent AI Research by Jemist 	 [EPUB](output/independentairesearch.epub) 	 [PDF](pdfs/independentairesearch.pdf)  
+* Insights from Dath Ilan by David Udell 	 [EPUB](output/insightsfromdathilan.epub) 	 [PDF](pdfs/insightsfromdathilan.pdf)  
+* Instrumental Rationality by Unknown 	 [EPUB](output/instrumentalrationality.epub) 	 [PDF](pdfs/instrumentalrationality.pdf)  
+* Interpretability Research for the Most Important Century by Evan R. Murphy 	 [EPUB](output/interpretabilityresearchforthemostimportantcentury.epub) 	 [PDF](pdfs/interpretabilityresearchforthemostimportantcentury.pdf)  
+* Intro to Brain-Like-AGI Safety by Steven Byrnes 	 [EPUB](output/introtobrainlikeagisafety.epub) 	 [PDF](pdfs/introtobrainlikeagisafety.pdf)  
+* Intro to Naturalism by LoganStrohl 	 [EPUB](output/introtonaturalism.epub) 	 [PDF](pdfs/introtonaturalism.pdf)  
+* Introduction to Game Theory by Scott Alexander 	 [EPUB](output/introductiontogametheory.epub) 	 [PDF](pdfs/introductiontogametheory.pdf)  
+* Intuitive Introduction to Functional Decision Theory by Heighn 	 [EPUB](output/intuitiveintroductiontofunctionaldecisiontheory.epub) 	 [PDF](pdfs/intuitiveintroductiontofunctionaldecisiontheory.pdf)  
+* Iterated Amplification by paulfchristiano 	 [EPUB](output/iteratedamplification.epub) 	 [PDF](pdfs/iteratedamplification.pdf)  
+* Keep your beliefs cruxy and your frames explicit by Raemon 	 [EPUB](output/keepyourbeliefscruxyandyourframesexplicit.epub) 	 [PDF](pdfs/keepyourbeliefscruxyandyourframesexplicit.pdf)  
+* Keith Stanovich: What Intelligence Tests Miss by Kaj_Sotala 	 [EPUB](output/keithstanovichwhatintelligencetestsmiss.epub) 	 [PDF](pdfs/keithstanovichwhatintelligencetestsmiss.pdf)  
+* Kickstarter for Coordinated Action by Raemon 	 [EPUB](output/kickstarterforcoordinatedaction.epub) 	 [PDF](pdfs/kickstarterforcoordinatedaction.pdf)  
+* Law-Following AI by Cullen_OKeefe 	 [EPUB](output/lawfollowingai.epub) 	 [PDF](pdfs/lawfollowingai.pdf)  
+* LessWrong Political Prerequisites by Raemon 	 [EPUB](output/lesswrongpoliticalprerequisites.epub) 	 [PDF](pdfs/lesswrongpoliticalprerequisites.pdf)  
+* Lessons from Isaac by adamShimi 	 [EPUB](output/lessonsfromisaac.epub) 	 [PDF](pdfs/lessonsfromisaac.pdf)  
+* Living Luminously by Alicorn 	 [EPUB](output/livingluminously.epub) 	 [PDF](pdfs/livingluminously.pdf)  
+* Logical Counterfactuals and Proposition graphs by Donald Hobson 	 [EPUB](output/logicalcounterfactualsandpropositiongraphs.epub) 	 [PDF](pdfs/logicalcounterfactualsandpropositiongraphs.pdf)  
+* Luna Lovegood by lsusr 	 [EPUB](output/lunalovegood.epub) 	 [PDF](pdfs/lunalovegood.pdf)  
+* Map and Territory Cross-Posts by Gordon Seidoh Worley 	 [EPUB](output/mapandterritorycrossposts.epub) 	 [PDF](pdfs/mapandterritorycrossposts.pdf)  
+* Mechanics of Tradecraft by lc 	 [EPUB](output/mechanicsoftradecraft.epub) 	 [PDF](pdfs/mechanicsoftradecraft.pdf)  
+* Mechanism Design by pranomostro 	 [EPUB](output/mechanismdesign.epub) 	 [PDF](pdfs/mechanismdesign.pdf)  
+* Medical Paradigms by ChristianKl 	 [EPUB](output/medicalparadigms.epub) 	 [PDF](pdfs/medicalparadigms.pdf)  
+* Metaethics by pranomostro 	 [EPUB](output/metaethics.epub) 	 [PDF](pdfs/metaethics.pdf)  
+* Model Comparison by johnswentworth 	 [EPUB](output/modelcomparison.epub) 	 [PDF](pdfs/modelcomparison.pdf)  
+* Modeling Transformative AI Risk (MTAIR) by Davidmanheim 	 [EPUB](output/modelingtransformativeairiskmtair.epub) 	 [PDF](pdfs/modelingtransformativeairiskmtair.pdf)  
+* Moral uncertainty by MichaelA 	 [EPUB](output/moraluncertainty.epub) 	 [PDF](pdfs/moraluncertainty.pdf)  
+* Multiagent Models of Mind by Kaj_Sotala 	 [EPUB](output/multiagentmodelsofmind.epub) 	 [PDF](pdfs/multiagentmodelsofmind.pdf)  
+* Murphy's Quest by alkjash 	 [EPUB](output/murphysquest.epub) 	 [PDF](pdfs/murphysquest.pdf)  
+* My AI Risk Model by peterbarnett 	 [EPUB](output/myairiskmodel.epub) 	 [PDF](pdfs/myairiskmodel.pdf)  
+* NLP and other Self-Improvement by ChristianKl 	 [EPUB](output/nlpandotherselfimprovement.epub) 	 [PDF](pdfs/nlpandotherselfimprovement.pdf)  
+* Naturalized Induction by pranomostro 	 [EPUB](output/naturalizedinduction.epub) 	 [PDF](pdfs/naturalizedinduction.pdf)  
+* Networking: The Abridged Game Manual by Severin T. Seehrich 	 [EPUB](output/networkingtheabridgedgamemanual.epub) 	 [PDF](pdfs/networkingtheabridgedgamemanual.pdf)  
+* Neural Networks, More than you wanted to Show by Donald Hobson 	 [EPUB](output/neuralnetworksmorethanyouwantedtoshow.epub) 	 [PDF](pdfs/neuralnetworksmorethanyouwantedtoshow.pdf)  
+* No-Nonsense Metaethics by lukeprog 	 [EPUB](output/nononsensemetaethics.epub) 	 [PDF](pdfs/nononsensemetaethics.pdf)  
+* Notes on Virtues by David Gross 	 [EPUB](output/notesonvirtues.epub) 	 [PDF](pdfs/notesonvirtues.pdf)  
+* Novum Organum by Ruby 	 [EPUB](output/novumorganum.epub) 	 [PDF](pdfs/novumorganum.pdf)  
+* Open Threads by Raemon 	 [EPUB](output/openthreads.epub) 	 [PDF](pdfs/openthreads.pdf)  
+* Parables and Prayers by Scott Alexander 	 [EPUB](output/parablesandprayers.epub) 	 [PDF](pdfs/parablesandprayers.pdf)  
+* Partial Agency by abramdemski 	 [EPUB](output/partialagency.epub) 	 [PDF](pdfs/partialagency.pdf)  
+* Participating in a Covid-19 Vaccination Trial by ejacob 	 [EPUB](output/participatinginacovid19vaccinationtrial.epub) 	 [PDF](pdfs/participatinginacovid19vaccinationtrial.pdf)  
+* Phenomenological AI Alignment by Gordon Seidoh Worley 	 [EPUB](output/phenomenologicalaialignment.epub) 	 [PDF](pdfs/phenomenologicalaialignment.pdf)  
+* Philosophy Corner by Charlie Steiner 	 [EPUB](output/philosophycorner.epub) 	 [PDF](pdfs/philosophycorner.pdf)  
+* Pointing at Normativity by abramdemski 	 [EPUB](output/pointingatnormativity.epub) 	 [PDF](pdfs/pointingatnormativity.pdf)  
+* Politics and Pragmatics by Scott Alexander 	 [EPUB](output/politicsandpragmatics.epub) 	 [PDF](pdfs/politicsandpragmatics.pdf)  
+* Positivism and Self Deception by pranomostro 	 [EPUB](output/positivismandselfdeception.epub) 	 [PDF](pdfs/positivismandselfdeception.pdf)  
+* Practical Guide to Anthropics by Stuart_Armstrong 	 [EPUB](output/practicalguidetoanthropics.epub) 	 [PDF](pdfs/practicalguidetoanthropics.pdf)  
+* Pragmatic AI Safety by Dan H 	 [EPUB](output/pragmaticaisafety.epub) 	 [PDF](pdfs/pragmaticaisafety.pdf)  
+* Prediction-Driven Collaborative Reasoning Systems by ozziegooen 	 [EPUB](output/predictiondrivencollaborativereasoningsystems.epub) 	 [PDF](pdfs/predictiondrivencollaborativereasoningsystems.pdf)  
+* Predictions & Self-awareness by John_Maxwell 	 [EPUB](output/predictionsselfawareness.epub) 	 [PDF](pdfs/predictionsselfawareness.pdf)  
+* Priming by pranomostro 	 [EPUB](output/priming.epub) 	 [PDF](pdfs/priming.pdf)  
+* Privacy Practices by Raemon 	 [EPUB](output/privacypractices.epub) 	 [PDF](pdfs/privacypractices.pdf)  
+* Probability and Predictions by Scott Alexander 	 [EPUB](output/probabilityandpredictions.epub) 	 [PDF](pdfs/probabilityandpredictions.pdf)  
+* Project Hufflepuff by Raemon 	 [EPUB](output/projecthufflepuff.epub) 	 [PDF](pdfs/projecthufflepuff.pdf)  
+* Pseudorandomness Contest by Eric Neyman 	 [EPUB](output/pseudorandomnesscontest.epub) 	 [PDF](pdfs/pseudorandomnesscontest.pdf)  
+* Quantitative Finance by lsusr 	 [EPUB](output/quantitativefinance.epub) 	 [PDF](pdfs/quantitativefinance.pdf)  
+* Quantum Physics by pranomostro 	 [EPUB](output/quantumphysics.epub) 	 [PDF](pdfs/quantumphysics.pdf)  
+* Rational Ritual by Raemon 	 [EPUB](output/rationalritual.epub) 	 [PDF](pdfs/rationalritual.pdf)  
+* Rationality and Philosophy by lukeprog 	 [EPUB](output/rationalityandphilosophy.epub) 	 [PDF](pdfs/rationalityandphilosophy.pdf)  
+* Rationality in Research by Jemist 	 [EPUB](output/rationalityinresearch.epub) 	 [PDF](pdfs/rationalityinresearch.pdf)  
+* Reframing Impact by TurnTrout 	 [EPUB](output/reframingimpact.epub) 	 [PDF](pdfs/reframingimpact.pdf)  
+* Replacing Guilt by So8res 	 [EPUB](output/replacingguilt.epub) 	 [PDF](pdfs/replacingguilt.pdf)  
+* Research Journals by Shoshannah Tekofsky 	 [EPUB](output/researchjournals.epub) 	 [PDF](pdfs/researchjournals.pdf)  
+* Research and Reviews by Scott Alexander 	 [EPUB](output/researchandreviews.epub) 	 [PDF](pdfs/researchandreviews.pdf)  
+* Reviews for the Alignment Forum by adamShimi 	 [EPUB](output/reviewsforthealignmentforum.epub) 	 [PDF](pdfs/reviewsforthealignmentforum.pdf)  
+* Risks from Learned Optimization by evhub 	 [EPUB](output/risksfromlearnedoptimization.epub) 	 [PDF](pdfs/risksfromlearnedoptimization.pdf)  
+* Selection Theorems: Modularity by TheMcDouglas 	 [EPUB](output/selectiontheoremsmodularity.epub) 	 [PDF](pdfs/selectiontheoremsmodularity.pdf)  
+* Shard Theory by Quintin Pope 	 [EPUB](output/shardtheory.epub) 	 [PDF](pdfs/shardtheory.pdf)  
+* Share Models, Not Beliefs by Ben Pace 	 [EPUB](output/sharemodelsnotbeliefs.epub) 	 [PDF](pdfs/sharemodelsnotbeliefs.pdf)  
+* Short Stories by lsusr 	 [EPUB](output/shortstories.epub) 	 [PDF](pdfs/shortstories.pdf)  
+* Slack and the Sabbath by Zvi 	 [EPUB](output/slackandthesabbath.epub) 	 [PDF](pdfs/slackandthesabbath.pdf)  
+* So You Want To Colonize The Universe by Diffractor 	 [EPUB](output/soyouwanttocolonizetheuniverse.epub) 	 [PDF](pdfs/soyouwanttocolonizetheuniverse.pdf)  
+* Some comments on the CAIS paradigm by particlemania 	 [EPUB](output/somecommentsonthecaisparadigm.epub) 	 [PDF](pdfs/somecommentsonthecaisparadigm.pdf)  
+* Staying Sane While Taking Ideas Seriously by orthonormal 	 [EPUB](output/stayingsanewhiletakingideasseriously.epub) 	 [PDF](pdfs/stayingsanewhiletakingideasseriously.pdf)  
+* Studies and Statistics by Scott Alexander 	 [EPUB](output/studiesandstatistics.epub) 	 [PDF](pdfs/studiesandstatistics.pdf)  
+* Subagents and impact measures by Stuart_Armstrong 	 [EPUB](output/subagentsandimpactmeasures.epub) 	 [PDF](pdfs/subagentsandimpactmeasures.pdf)  
+* Sunzi's《Methods of War》 by lsusr 	 [EPUB](output/sunzismethodsofwar.epub) 	 [PDF](pdfs/sunzismethodsofwar.pdf)  
+* Takeoff and Takeover in the Past and Future by Daniel Kokotajlo 	 [EPUB](output/takeoffandtakeoverinthepastandfuture.epub) 	 [PDF](pdfs/takeoffandtakeoverinthepastandfuture.pdf)  
+* Tensions in Truthseeking by Raemon 	 [EPUB](output/tensionsintruthseeking.epub) 	 [PDF](pdfs/tensionsintruthseeking.pdf)  
+* The Bayesian Conspiracy by Eliezer Yudkowsky 	 [EPUB](output/thebayesianconspiracy.epub) 	 [PDF](pdfs/thebayesianconspiracy.pdf)  
+* The Blue-Minimizing Robot by Scott Alexander 	 [EPUB](output/theblueminimizingrobot.epub) 	 [PDF](pdfs/theblueminimizingrobot.pdf)  
+* The Causes of Power-seeking and Instrumental Convergence by TurnTrout 	 [EPUB](output/thecausesofpowerseekingandinstrumentalconvergence.epub) 	 [PDF](pdfs/thecausesofpowerseekingandinstrumentalconvergence.pdf)  
+* The Coordination Frontier by Raemon 	 [EPUB](output/thecoordinationfrontier.epub) 	 [PDF](pdfs/thecoordinationfrontier.pdf)  
+* The Darwin Game by Zvi 	 [EPUB](output/thedarwingame.epub) 	 [PDF](pdfs/thedarwingame.pdf)  
+* The Grueling Subject by ChristianKl 	 [EPUB](output/thegruelingsubject.epub) 	 [PDF](pdfs/thegruelingsubject.pdf)  
+* The Inside View (Podcast) by Michaël Trazzi 	 [EPUB](output/theinsideviewpodcast.epub) 	 [PDF](pdfs/theinsideviewpodcast.pdf)  
+* The LessWrong Review by Raemon 	 [EPUB](output/thelesswrongreview.epub) 	 [PDF](pdfs/thelesswrongreview.pdf)  
+* The Most Important Century by HoldenKarnofsky 	 [EPUB](output/themostimportantcentury.epub) 	 [PDF](pdfs/themostimportantcentury.pdf)  
+* The Science of Winning at Life by lukeprog 	 [EPUB](output/thescienceofwinningatlife.epub) 	 [PDF](pdfs/thescienceofwinningatlife.pdf)  
+* Thoughts on Corrigibility by TurnTrout 	 [EPUB](output/thoughtsoncorrigibility.epub) 	 [PDF](pdfs/thoughtsoncorrigibility.pdf)  
+* Three Worlds Collide by Eliezer Yudkowsky 	 [EPUB](output/threeworldscollide.epub) 	 [PDF](pdfs/threeworldscollide.pdf)  
+* Through the Haskell Jungle by adamShimi 	 [EPUB](output/throughthehaskelljungle.epub) 	 [PDF](pdfs/throughthehaskelljungle.pdf)  
+* Toying With Goal-Directedness by adamShimi 	 [EPUB](output/toyingwithgoaldirectedness.epub) 	 [PDF](pdfs/toyingwithgoaldirectedness.pdf)  
+* Transformative AI and Compute by lennart 	 [EPUB](output/transformativeaiandcompute.epub) 	 [PDF](pdfs/transformativeaiandcompute.pdf)  
+* Treacherous Turn by Michaël Trazzi 	 [EPUB](output/treacherousturn.epub) 	 [PDF](pdfs/treacherousturn.pdf)  
+* Trends in Machine Learning by Jsevillamol 	 [EPUB](output/trendsinmachinelearning.epub) 	 [PDF](pdfs/trendsinmachinelearning.pdf)  
+* Understanding Machine Learning by Rafael Harth 	 [EPUB](output/understandingmachinelearning.epub) 	 [PDF](pdfs/understandingmachinelearning.pdf)  
+* Using Credence Calibration for Everything by ChristianKl 	 [EPUB](output/usingcredencecalibrationforeverything.epub) 	 [PDF](pdfs/usingcredencecalibrationforeverything.pdf)  
+* Value Learning by Rohin Shah 	 [EPUB](output/valuelearning.epub) 	 [PDF](pdfs/valuelearning.pdf)  
+* Voting Theory Primer for Rationalists by Jameson Quinn 	 [EPUB](output/votingtheoryprimerforrationalists.epub) 	 [PDF](pdfs/votingtheoryprimerforrationalists.pdf)  
+* What You Can and Can't Learn from Games by Davis_Kingsley 	 [EPUB](output/whatyoucanandcantlearnfromgames.epub) 	 [PDF](pdfs/whatyoucanandcantlearnfromgames.pdf)  
+* Winding My Way Through Alignment by David Udell 	 [EPUB](output/windingmywaythroughalignment.epub) 	 [PDF](pdfs/windingmywaythroughalignment.pdf)  
+* Zen and Rationality by Gordon Seidoh Worley 	 [EPUB](output/zenandrationality.epub) 	 [PDF](pdfs/zenandrationality.pdf)  
+* [Redwood Research] Causal Scrubbing by LawrenceC 	 [EPUB](output/redwoodresearchcausalscrubbing.epub) 	 [PDF](pdfs/redwoodresearchcausalscrubbing.pdf)  
+* base-line to enlightenment - the physical route to better by leggi 	 [EPUB](output/baselinetoenlightenmentthephysicalroutetobetter.epub) 	 [PDF](pdfs/baselinetoenlightenmentthephysicalroutetobetter.pdf)  
 ## Best of LessWrong
-* [Best of LessWrong: December 2023](output/bestoflesswrongdecember2023.epub) by LessWrong
-* [Best of LessWrong: November 2023](output/bestoflesswrongnovember2023.epub) by LessWrong
-* [Best of LessWrong: October 2023](output/bestoflesswrongoctober2023.epub) by LessWrong
-* [Best of LessWrong: September 2023](output/bestoflesswrongseptember2023.epub) by LessWrong
-* [Best of LessWrong: August 2023](output/bestoflesswrongaugust2023.epub) by LessWrong
-* [Best of LessWrong: July 2023](output/bestoflesswrongjuly2023.epub) by LessWrong
-* [Best of LessWrong: June 2023](output/bestoflesswrongjune2023.epub) by LessWrong
-* [Best of LessWrong: May 2023](output/bestoflesswrongmay2023.epub) by LessWrong
-* [Best of LessWrong: April 2023](output/bestoflesswrongapril2023.epub) by LessWrong
-* [Best of LessWrong: March 2023](output/bestoflesswrongmarch2023.epub) by LessWrong
-* [Best of LessWrong: February 2023](output/bestoflesswrongfebruary2023.epub) by LessWrong
-* [Best of LessWrong: January 2023](output/bestoflesswrongjanuary2023.epub) by LessWrong
-* [Best of LessWrong: December 2022](output/bestoflesswrongdecember2022.epub) by LessWrong
-* [Best of LessWrong: November 2022](output/bestoflesswrongnovember2022.epub) by LessWrong
-* [Best of LessWrong: October 2022](output/bestoflesswrongoctober2022.epub) by LessWrong
-* [Best of LessWrong: September 2022](output/bestoflesswrongseptember2022.epub) by LessWrong
-* [Best of LessWrong: August 2022](output/bestoflesswrongaugust2022.epub) by LessWrong
-* [Best of LessWrong: July 2022](output/bestoflesswrongjuly2022.epub) by LessWrong
-* [Best of LessWrong: June 2022](output/bestoflesswrongjune2022.epub) by LessWrong
-* [Best of LessWrong: May 2022](output/bestoflesswrongmay2022.epub) by LessWrong
-* [Best of LessWrong: April 2022](output/bestoflesswrongapril2022.epub) by LessWrong
-* [Best of LessWrong: March 2022](output/bestoflesswrongmarch2022.epub) by LessWrong
-* [Best of LessWrong: February 2022](output/bestoflesswrongfebruary2022.epub) by LessWrong
-* [Best of LessWrong: January 2022](output/bestoflesswrongjanuary2022.epub) by LessWrong
-* [Best of LessWrong: December 2021](output/bestoflesswrongdecember2021.epub) by LessWrong
-* [Best of LessWrong: November 2021](output/bestoflesswrongnovember2021.epub) by LessWrong
-* [Best of LessWrong: October 2021](output/bestoflesswrongoctober2021.epub) by LessWrong
-* [Best of LessWrong: September 2021](output/bestoflesswrongseptember2021.epub) by LessWrong
-* [Best of LessWrong: August 2021](output/bestoflesswrongaugust2021.epub) by LessWrong
-* [Best of LessWrong: July 2021](output/bestoflesswrongjuly2021.epub) by LessWrong
-* [Best of LessWrong: June 2021](output/bestoflesswrongjune2021.epub) by LessWrong
-* [Best of LessWrong: May 2021](output/bestoflesswrongmay2021.epub) by LessWrong
-* [Best of LessWrong: April 2021](output/bestoflesswrongapril2021.epub) by LessWrong
-* [Best of LessWrong: March 2021](output/bestoflesswrongmarch2021.epub) by LessWrong
-* [Best of LessWrong: February 2021](output/bestoflesswrongfebruary2021.epub) by LessWrong
-* [Best of LessWrong: January 2021](output/bestoflesswrongjanuary2021.epub) by LessWrong
-* [Best of LessWrong: December 2020](output/bestoflesswrongdecember2020.epub) by LessWrong
-* [Best of LessWrong: November 2020](output/bestoflesswrongnovember2020.epub) by LessWrong
-* [Best of LessWrong: October 2020](output/bestoflesswrongoctober2020.epub) by LessWrong
-* [Best of LessWrong: September 2020](output/bestoflesswrongseptember2020.epub) by LessWrong
-* [Best of LessWrong: August 2020](output/bestoflesswrongaugust2020.epub) by LessWrong
-* [Best of LessWrong: July 2020](output/bestoflesswrongjuly2020.epub) by LessWrong
-* [Best of LessWrong: June 2020](output/bestoflesswrongjune2020.epub) by LessWrong
-* [Best of LessWrong: May 2020](output/bestoflesswrongmay2020.epub) by LessWrong
-* [Best of LessWrong: April 2020](output/bestoflesswrongapril2020.epub) by LessWrong
-* [Best of LessWrong: March 2020](output/bestoflesswrongmarch2020.epub) by LessWrong
-* [Best of LessWrong: February 2020](output/bestoflesswrongfebruary2020.epub) by LessWrong
-* [Best of LessWrong: January 2020](output/bestoflesswrongjanuary2020.epub) by LessWrong
-* [Best of LessWrong: December 2019](output/bestoflesswrongdecember2019.epub) by LessWrong
-* [Best of LessWrong: November 2019](output/bestoflesswrongnovember2019.epub) by LessWrong
-* [Best of LessWrong: October 2019](output/bestoflesswrongoctober2019.epub) by LessWrong
-* [Best of LessWrong: September 2019](output/bestoflesswrongseptember2019.epub) by LessWrong
-* [Best of LessWrong: August 2019](output/bestoflesswrongaugust2019.epub) by LessWrong
-* [Best of LessWrong: July 2019](output/bestoflesswrongjuly2019.epub) by LessWrong
-* [Best of LessWrong: June 2019](output/bestoflesswrongjune2019.epub) by LessWrong
-* [Best of LessWrong: May 2019](output/bestoflesswrongmay2019.epub) by LessWrong
-* [Best of LessWrong: April 2019](output/bestoflesswrongapril2019.epub) by LessWrong
-* [Best of LessWrong: March 2019](output/bestoflesswrongmarch2019.epub) by LessWrong
-* [Best of LessWrong: February 2019](output/bestoflesswrongfebruary2019.epub) by LessWrong
-* [Best of LessWrong: January 2019](output/bestoflesswrongjanuary2019.epub) by LessWrong
-* [Best of LessWrong: December 2018](output/bestoflesswrongdecember2018.epub) by LessWrong
-* [Best of LessWrong: November 2018](output/bestoflesswrongnovember2018.epub) by LessWrong
-* [Best of LessWrong: October 2018](output/bestoflesswrongoctober2018.epub) by LessWrong
-* [Best of LessWrong: September 2018](output/bestoflesswrongseptember2018.epub) by LessWrong
-* [Best of LessWrong: August 2018](output/bestoflesswrongaugust2018.epub) by LessWrong
-* [Best of LessWrong: July 2018](output/bestoflesswrongjuly2018.epub) by LessWrong
-* [Best of LessWrong: June 2018](output/bestoflesswrongjune2018.epub) by LessWrong
-* [Best of LessWrong: May 2018](output/bestoflesswrongmay2018.epub) by LessWrong
-* [Best of LessWrong: April 2018](output/bestoflesswrongapril2018.epub) by LessWrong
-* [Best of LessWrong: March 2018](output/bestoflesswrongmarch2018.epub) by LessWrong
-* [Best of LessWrong: February 2018](output/bestoflesswrongfebruary2018.epub) by LessWrong
-* [Best of LessWrong: January 2018](output/bestoflesswrongjanuary2018.epub) by LessWrong
-* [Best of LessWrong: December 2017](output/bestoflesswrongdecember2017.epub) by LessWrong
-* [Best of LessWrong: November 2017](output/bestoflesswrongnovember2017.epub) by LessWrong
-* [Best of LessWrong: October 2017](output/bestoflesswrongoctober2017.epub) by LessWrong
-* [Best of LessWrong: September 2017](output/bestoflesswrongseptember2017.epub) by LessWrong
-* [Best of LessWrong: August 2017](output/bestoflesswrongaugust2017.epub) by LessWrong
-* [Best of LessWrong: July 2017](output/bestoflesswrongjuly2017.epub) by LessWrong
-* [Best of LessWrong: June 2017](output/bestoflesswrongjune2017.epub) by LessWrong
-* [Best of LessWrong: May 2017](output/bestoflesswrongmay2017.epub) by LessWrong
-* [Best of LessWrong: April 2017](output/bestoflesswrongapril2017.epub) by LessWrong
-* [Best of LessWrong: March 2017](output/bestoflesswrongmarch2017.epub) by LessWrong
-* [Best of LessWrong: February 2017](output/bestoflesswrongfebruary2017.epub) by LessWrong
-* [Best of LessWrong: January 2017](output/bestoflesswrongjanuary2017.epub) by LessWrong
-* [Best of LessWrong: December 2016](output/bestoflesswrongdecember2016.epub) by LessWrong
-* [Best of LessWrong: November 2016](output/bestoflesswrongnovember2016.epub) by LessWrong
-* [Best of LessWrong: October 2016](output/bestoflesswrongoctober2016.epub) by LessWrong
-* [Best of LessWrong: September 2016](output/bestoflesswrongseptember2016.epub) by LessWrong
-* [Best of LessWrong: August 2016](output/bestoflesswrongaugust2016.epub) by LessWrong
-* [Best of LessWrong: July 2016](output/bestoflesswrongjuly2016.epub) by LessWrong
-* [Best of LessWrong: June 2016](output/bestoflesswrongjune2016.epub) by LessWrong
-* [Best of LessWrong: May 2016](output/bestoflesswrongmay2016.epub) by LessWrong
-* [Best of LessWrong: April 2016](output/bestoflesswrongapril2016.epub) by LessWrong
-* [Best of LessWrong: March 2016](output/bestoflesswrongmarch2016.epub) by LessWrong
-* [Best of LessWrong: February 2016](output/bestoflesswrongfebruary2016.epub) by LessWrong
-* [Best of LessWrong: January 2016](output/bestoflesswrongjanuary2016.epub) by LessWrong
-* [Best of LessWrong: December 2015](output/bestoflesswrongdecember2015.epub) by LessWrong
-* [Best of LessWrong: November 2015](output/bestoflesswrongnovember2015.epub) by LessWrong
-* [Best of LessWrong: October 2015](output/bestoflesswrongoctober2015.epub) by LessWrong
-* [Best of LessWrong: September 2015](output/bestoflesswrongseptember2015.epub) by LessWrong
-* [Best of LessWrong: August 2015](output/bestoflesswrongaugust2015.epub) by LessWrong
-* [Best of LessWrong: July 2015](output/bestoflesswrongjuly2015.epub) by LessWrong
-* [Best of LessWrong: June 2015](output/bestoflesswrongjune2015.epub) by LessWrong
-* [Best of LessWrong: May 2015](output/bestoflesswrongmay2015.epub) by LessWrong
-* [Best of LessWrong: April 2015](output/bestoflesswrongapril2015.epub) by LessWrong
-* [Best of LessWrong: March 2015](output/bestoflesswrongmarch2015.epub) by LessWrong
-* [Best of LessWrong: February 2015](output/bestoflesswrongfebruary2015.epub) by LessWrong
-* [Best of LessWrong: January 2015](output/bestoflesswrongjanuary2015.epub) by LessWrong
-* [Best of LessWrong: December 2014](output/bestoflesswrongdecember2014.epub) by LessWrong
-* [Best of LessWrong: November 2014](output/bestoflesswrongnovember2014.epub) by LessWrong
-* [Best of LessWrong: October 2014](output/bestoflesswrongoctober2014.epub) by LessWrong
-* [Best of LessWrong: September 2014](output/bestoflesswrongseptember2014.epub) by LessWrong
-* [Best of LessWrong: August 2014](output/bestoflesswrongaugust2014.epub) by LessWrong
-* [Best of LessWrong: July 2014](output/bestoflesswrongjuly2014.epub) by LessWrong
-* [Best of LessWrong: June 2014](output/bestoflesswrongjune2014.epub) by LessWrong
-* [Best of LessWrong: May 2014](output/bestoflesswrongmay2014.epub) by LessWrong
-* [Best of LessWrong: April 2014](output/bestoflesswrongapril2014.epub) by LessWrong
-* [Best of LessWrong: March 2014](output/bestoflesswrongmarch2014.epub) by LessWrong
-* [Best of LessWrong: February 2014](output/bestoflesswrongfebruary2014.epub) by LessWrong
-* [Best of LessWrong: January 2014](output/bestoflesswrongjanuary2014.epub) by LessWrong
-* [Best of LessWrong: December 2013](output/bestoflesswrongdecember2013.epub) by LessWrong
-* [Best of LessWrong: November 2013](output/bestoflesswrongnovember2013.epub) by LessWrong
-* [Best of LessWrong: October 2013](output/bestoflesswrongoctober2013.epub) by LessWrong
-* [Best of LessWrong: September 2013](output/bestoflesswrongseptember2013.epub) by LessWrong
-* [Best of LessWrong: August 2013](output/bestoflesswrongaugust2013.epub) by LessWrong
-* [Best of LessWrong: July 2013](output/bestoflesswrongjuly2013.epub) by LessWrong
-* [Best of LessWrong: June 2013](output/bestoflesswrongjune2013.epub) by LessWrong
-* [Best of LessWrong: May 2013](output/bestoflesswrongmay2013.epub) by LessWrong
-* [Best of LessWrong: April 2013](output/bestoflesswrongapril2013.epub) by LessWrong
-* [Best of LessWrong: March 2013](output/bestoflesswrongmarch2013.epub) by LessWrong
-* [Best of LessWrong: February 2013](output/bestoflesswrongfebruary2013.epub) by LessWrong
-* [Best of LessWrong: January 2013](output/bestoflesswrongjanuary2013.epub) by LessWrong
-* [Best of LessWrong: December 2012](output/bestoflesswrongdecember2012.epub) by LessWrong
-* [Best of LessWrong: November 2012](output/bestoflesswrongnovember2012.epub) by LessWrong
-* [Best of LessWrong: October 2012](output/bestoflesswrongoctober2012.epub) by LessWrong
-* [Best of LessWrong: September 2012](output/bestoflesswrongseptember2012.epub) by LessWrong
-* [Best of LessWrong: August 2012](output/bestoflesswrongaugust2012.epub) by LessWrong
-* [Best of LessWrong: July 2012](output/bestoflesswrongjuly2012.epub) by LessWrong
-* [Best of LessWrong: June 2012](output/bestoflesswrongjune2012.epub) by LessWrong
-* [Best of LessWrong: May 2012](output/bestoflesswrongmay2012.epub) by LessWrong
-* [Best of LessWrong: April 2012](output/bestoflesswrongapril2012.epub) by LessWrong
-* [Best of LessWrong: March 2012](output/bestoflesswrongmarch2012.epub) by LessWrong
-* [Best of LessWrong: February 2012](output/bestoflesswrongfebruary2012.epub) by LessWrong
-* [Best of LessWrong: January 2012](output/bestoflesswrongjanuary2012.epub) by LessWrong
+* Best of LessWrong: December 2023 	 [EPUB](output/bestoflesswrongdecember2023.epub) 	 [PDF](pdfs/bestoflesswrongdecember2023.pdf)
+* Best of LessWrong: November 2023 	 [EPUB](output/bestoflesswrongnovember2023.epub) 	 [PDF](pdfs/bestoflesswrongnovember2023.pdf)
+* Best of LessWrong: October 2023 	 [EPUB](output/bestoflesswrongoctober2023.epub) 	 [PDF](pdfs/bestoflesswrongoctober2023.pdf)
+* Best of LessWrong: September 2023 	 [EPUB](output/bestoflesswrongseptember2023.epub) 	 [PDF](pdfs/bestoflesswrongseptember2023.pdf)
+* Best of LessWrong: August 2023 	 [EPUB](output/bestoflesswrongaugust2023.epub) 	 [PDF](pdfs/bestoflesswrongaugust2023.pdf)
+* Best of LessWrong: July 2023 	 [EPUB](output/bestoflesswrongjuly2023.epub) 	 [PDF](pdfs/bestoflesswrongjuly2023.pdf)
+* Best of LessWrong: June 2023 	 [EPUB](output/bestoflesswrongjune2023.epub) 	 [PDF](pdfs/bestoflesswrongjune2023.pdf)
+* Best of LessWrong: May 2023 	 [EPUB](output/bestoflesswrongmay2023.epub) 	 [PDF](pdfs/bestoflesswrongmay2023.pdf)
+* Best of LessWrong: April 2023 	 [EPUB](output/bestoflesswrongapril2023.epub) 	 [PDF](pdfs/bestoflesswrongapril2023.pdf)
+* Best of LessWrong: March 2023 	 [EPUB](output/bestoflesswrongmarch2023.epub) 	 [PDF](pdfs/bestoflesswrongmarch2023.pdf)
+* Best of LessWrong: February 2023 	 [EPUB](output/bestoflesswrongfebruary2023.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2023.pdf)
+* Best of LessWrong: January 2023 	 [EPUB](output/bestoflesswrongjanuary2023.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2023.pdf)
+* Best of LessWrong: December 2022 	 [EPUB](output/bestoflesswrongdecember2022.epub) 	 [PDF](pdfs/bestoflesswrongdecember2022.pdf)
+* Best of LessWrong: November 2022 	 [EPUB](output/bestoflesswrongnovember2022.epub) 	 [PDF](pdfs/bestoflesswrongnovember2022.pdf)
+* Best of LessWrong: October 2022 	 [EPUB](output/bestoflesswrongoctober2022.epub) 	 [PDF](pdfs/bestoflesswrongoctober2022.pdf)
+* Best of LessWrong: September 2022 	 [EPUB](output/bestoflesswrongseptember2022.epub) 	 [PDF](pdfs/bestoflesswrongseptember2022.pdf)
+* Best of LessWrong: August 2022 	 [EPUB](output/bestoflesswrongaugust2022.epub) 	 [PDF](pdfs/bestoflesswrongaugust2022.pdf)
+* Best of LessWrong: July 2022 	 [EPUB](output/bestoflesswrongjuly2022.epub) 	 [PDF](pdfs/bestoflesswrongjuly2022.pdf)
+* Best of LessWrong: June 2022 	 [EPUB](output/bestoflesswrongjune2022.epub) 	 [PDF](pdfs/bestoflesswrongjune2022.pdf)
+* Best of LessWrong: May 2022 	 [EPUB](output/bestoflesswrongmay2022.epub) 	 [PDF](pdfs/bestoflesswrongmay2022.pdf)
+* Best of LessWrong: April 2022 	 [EPUB](output/bestoflesswrongapril2022.epub) 	 [PDF](pdfs/bestoflesswrongapril2022.pdf)
+* Best of LessWrong: March 2022 	 [EPUB](output/bestoflesswrongmarch2022.epub) 	 [PDF](pdfs/bestoflesswrongmarch2022.pdf)
+* Best of LessWrong: February 2022 	 [EPUB](output/bestoflesswrongfebruary2022.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2022.pdf)
+* Best of LessWrong: January 2022 	 [EPUB](output/bestoflesswrongjanuary2022.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2022.pdf)
+* Best of LessWrong: December 2021 	 [EPUB](output/bestoflesswrongdecember2021.epub) 	 [PDF](pdfs/bestoflesswrongdecember2021.pdf)
+* Best of LessWrong: November 2021 	 [EPUB](output/bestoflesswrongnovember2021.epub) 	 [PDF](pdfs/bestoflesswrongnovember2021.pdf)
+* Best of LessWrong: October 2021 	 [EPUB](output/bestoflesswrongoctober2021.epub) 	 [PDF](pdfs/bestoflesswrongoctober2021.pdf)
+* Best of LessWrong: September 2021 	 [EPUB](output/bestoflesswrongseptember2021.epub) 	 [PDF](pdfs/bestoflesswrongseptember2021.pdf)
+* Best of LessWrong: August 2021 	 [EPUB](output/bestoflesswrongaugust2021.epub) 	 [PDF](pdfs/bestoflesswrongaugust2021.pdf)
+* Best of LessWrong: July 2021 	 [EPUB](output/bestoflesswrongjuly2021.epub) 	 [PDF](pdfs/bestoflesswrongjuly2021.pdf)
+* Best of LessWrong: June 2021 	 [EPUB](output/bestoflesswrongjune2021.epub) 	 [PDF](pdfs/bestoflesswrongjune2021.pdf)
+* Best of LessWrong: May 2021 	 [EPUB](output/bestoflesswrongmay2021.epub) 	 [PDF](pdfs/bestoflesswrongmay2021.pdf)
+* Best of LessWrong: April 2021 	 [EPUB](output/bestoflesswrongapril2021.epub) 	 [PDF](pdfs/bestoflesswrongapril2021.pdf)
+* Best of LessWrong: March 2021 	 [EPUB](output/bestoflesswrongmarch2021.epub) 	 [PDF](pdfs/bestoflesswrongmarch2021.pdf)
+* Best of LessWrong: February 2021 	 [EPUB](output/bestoflesswrongfebruary2021.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2021.pdf)
+* Best of LessWrong: January 2021 	 [EPUB](output/bestoflesswrongjanuary2021.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2021.pdf)
+* Best of LessWrong: December 2020 	 [EPUB](output/bestoflesswrongdecember2020.epub) 	 [PDF](pdfs/bestoflesswrongdecember2020.pdf)
+* Best of LessWrong: November 2020 	 [EPUB](output/bestoflesswrongnovember2020.epub) 	 [PDF](pdfs/bestoflesswrongnovember2020.pdf)
+* Best of LessWrong: October 2020 	 [EPUB](output/bestoflesswrongoctober2020.epub) 	 [PDF](pdfs/bestoflesswrongoctober2020.pdf)
+* Best of LessWrong: September 2020 	 [EPUB](output/bestoflesswrongseptember2020.epub) 	 [PDF](pdfs/bestoflesswrongseptember2020.pdf)
+* Best of LessWrong: August 2020 	 [EPUB](output/bestoflesswrongaugust2020.epub) 	 [PDF](pdfs/bestoflesswrongaugust2020.pdf)
+* Best of LessWrong: July 2020 	 [EPUB](output/bestoflesswrongjuly2020.epub) 	 [PDF](pdfs/bestoflesswrongjuly2020.pdf)
+* Best of LessWrong: June 2020 	 [EPUB](output/bestoflesswrongjune2020.epub) 	 [PDF](pdfs/bestoflesswrongjune2020.pdf)
+* Best of LessWrong: May 2020 	 [EPUB](output/bestoflesswrongmay2020.epub) 	 [PDF](pdfs/bestoflesswrongmay2020.pdf)
+* Best of LessWrong: April 2020 	 [EPUB](output/bestoflesswrongapril2020.epub) 	 [PDF](pdfs/bestoflesswrongapril2020.pdf)
+* Best of LessWrong: March 2020 	 [EPUB](output/bestoflesswrongmarch2020.epub) 	 [PDF](pdfs/bestoflesswrongmarch2020.pdf)
+* Best of LessWrong: February 2020 	 [EPUB](output/bestoflesswrongfebruary2020.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2020.pdf)
+* Best of LessWrong: January 2020 	 [EPUB](output/bestoflesswrongjanuary2020.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2020.pdf)
+* Best of LessWrong: December 2019 	 [EPUB](output/bestoflesswrongdecember2019.epub) 	 [PDF](pdfs/bestoflesswrongdecember2019.pdf)
+* Best of LessWrong: November 2019 	 [EPUB](output/bestoflesswrongnovember2019.epub) 	 [PDF](pdfs/bestoflesswrongnovember2019.pdf)
+* Best of LessWrong: October 2019 	 [EPUB](output/bestoflesswrongoctober2019.epub) 	 [PDF](pdfs/bestoflesswrongoctober2019.pdf)
+* Best of LessWrong: September 2019 	 [EPUB](output/bestoflesswrongseptember2019.epub) 	 [PDF](pdfs/bestoflesswrongseptember2019.pdf)
+* Best of LessWrong: August 2019 	 [EPUB](output/bestoflesswrongaugust2019.epub) 	 [PDF](pdfs/bestoflesswrongaugust2019.pdf)
+* Best of LessWrong: July 2019 	 [EPUB](output/bestoflesswrongjuly2019.epub) 	 [PDF](pdfs/bestoflesswrongjuly2019.pdf)
+* Best of LessWrong: June 2019 	 [EPUB](output/bestoflesswrongjune2019.epub) 	 [PDF](pdfs/bestoflesswrongjune2019.pdf)
+* Best of LessWrong: May 2019 	 [EPUB](output/bestoflesswrongmay2019.epub) 	 [PDF](pdfs/bestoflesswrongmay2019.pdf)
+* Best of LessWrong: April 2019 	 [EPUB](output/bestoflesswrongapril2019.epub) 	 [PDF](pdfs/bestoflesswrongapril2019.pdf)
+* Best of LessWrong: March 2019 	 [EPUB](output/bestoflesswrongmarch2019.epub) 	 [PDF](pdfs/bestoflesswrongmarch2019.pdf)
+* Best of LessWrong: February 2019 	 [EPUB](output/bestoflesswrongfebruary2019.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2019.pdf)
+* Best of LessWrong: January 2019 	 [EPUB](output/bestoflesswrongjanuary2019.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2019.pdf)
+* Best of LessWrong: December 2018 	 [EPUB](output/bestoflesswrongdecember2018.epub) 	 [PDF](pdfs/bestoflesswrongdecember2018.pdf)
+* Best of LessWrong: November 2018 	 [EPUB](output/bestoflesswrongnovember2018.epub) 	 [PDF](pdfs/bestoflesswrongnovember2018.pdf)
+* Best of LessWrong: October 2018 	 [EPUB](output/bestoflesswrongoctober2018.epub) 	 [PDF](pdfs/bestoflesswrongoctober2018.pdf)
+* Best of LessWrong: September 2018 	 [EPUB](output/bestoflesswrongseptember2018.epub) 	 [PDF](pdfs/bestoflesswrongseptember2018.pdf)
+* Best of LessWrong: August 2018 	 [EPUB](output/bestoflesswrongaugust2018.epub) 	 [PDF](pdfs/bestoflesswrongaugust2018.pdf)
+* Best of LessWrong: July 2018 	 [EPUB](output/bestoflesswrongjuly2018.epub) 	 [PDF](pdfs/bestoflesswrongjuly2018.pdf)
+* Best of LessWrong: June 2018 	 [EPUB](output/bestoflesswrongjune2018.epub) 	 [PDF](pdfs/bestoflesswrongjune2018.pdf)
+* Best of LessWrong: May 2018 	 [EPUB](output/bestoflesswrongmay2018.epub) 	 [PDF](pdfs/bestoflesswrongmay2018.pdf)
+* Best of LessWrong: April 2018 	 [EPUB](output/bestoflesswrongapril2018.epub) 	 [PDF](pdfs/bestoflesswrongapril2018.pdf)
+* Best of LessWrong: March 2018 	 [EPUB](output/bestoflesswrongmarch2018.epub) 	 [PDF](pdfs/bestoflesswrongmarch2018.pdf)
+* Best of LessWrong: February 2018 	 [EPUB](output/bestoflesswrongfebruary2018.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2018.pdf)
+* Best of LessWrong: January 2018 	 [EPUB](output/bestoflesswrongjanuary2018.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2018.pdf)
+* Best of LessWrong: December 2017 	 [EPUB](output/bestoflesswrongdecember2017.epub) 	 [PDF](pdfs/bestoflesswrongdecember2017.pdf)
+* Best of LessWrong: November 2017 	 [EPUB](output/bestoflesswrongnovember2017.epub) 	 [PDF](pdfs/bestoflesswrongnovember2017.pdf)
+* Best of LessWrong: October 2017 	 [EPUB](output/bestoflesswrongoctober2017.epub) 	 [PDF](pdfs/bestoflesswrongoctober2017.pdf)
+* Best of LessWrong: September 2017 	 [EPUB](output/bestoflesswrongseptember2017.epub) 	 [PDF](pdfs/bestoflesswrongseptember2017.pdf)
+* Best of LessWrong: August 2017 	 [EPUB](output/bestoflesswrongaugust2017.epub) 	 [PDF](pdfs/bestoflesswrongaugust2017.pdf)
+* Best of LessWrong: July 2017 	 [EPUB](output/bestoflesswrongjuly2017.epub) 	 [PDF](pdfs/bestoflesswrongjuly2017.pdf)
+* Best of LessWrong: June 2017 	 [EPUB](output/bestoflesswrongjune2017.epub) 	 [PDF](pdfs/bestoflesswrongjune2017.pdf)
+* Best of LessWrong: May 2017 	 [EPUB](output/bestoflesswrongmay2017.epub) 	 [PDF](pdfs/bestoflesswrongmay2017.pdf)
+* Best of LessWrong: April 2017 	 [EPUB](output/bestoflesswrongapril2017.epub) 	 [PDF](pdfs/bestoflesswrongapril2017.pdf)
+* Best of LessWrong: March 2017 	 [EPUB](output/bestoflesswrongmarch2017.epub) 	 [PDF](pdfs/bestoflesswrongmarch2017.pdf)
+* Best of LessWrong: February 2017 	 [EPUB](output/bestoflesswrongfebruary2017.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2017.pdf)
+* Best of LessWrong: January 2017 	 [EPUB](output/bestoflesswrongjanuary2017.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2017.pdf)
+* Best of LessWrong: December 2016 	 [EPUB](output/bestoflesswrongdecember2016.epub) 	 [PDF](pdfs/bestoflesswrongdecember2016.pdf)
+* Best of LessWrong: November 2016 	 [EPUB](output/bestoflesswrongnovember2016.epub) 	 [PDF](pdfs/bestoflesswrongnovember2016.pdf)
+* Best of LessWrong: October 2016 	 [EPUB](output/bestoflesswrongoctober2016.epub) 	 [PDF](pdfs/bestoflesswrongoctober2016.pdf)
+* Best of LessWrong: September 2016 	 [EPUB](output/bestoflesswrongseptember2016.epub) 	 [PDF](pdfs/bestoflesswrongseptember2016.pdf)
+* Best of LessWrong: August 2016 	 [EPUB](output/bestoflesswrongaugust2016.epub) 	 [PDF](pdfs/bestoflesswrongaugust2016.pdf)
+* Best of LessWrong: July 2016 	 [EPUB](output/bestoflesswrongjuly2016.epub) 	 [PDF](pdfs/bestoflesswrongjuly2016.pdf)
+* Best of LessWrong: June 2016 	 [EPUB](output/bestoflesswrongjune2016.epub) 	 [PDF](pdfs/bestoflesswrongjune2016.pdf)
+* Best of LessWrong: May 2016 	 [EPUB](output/bestoflesswrongmay2016.epub) 	 [PDF](pdfs/bestoflesswrongmay2016.pdf)
+* Best of LessWrong: April 2016 	 [EPUB](output/bestoflesswrongapril2016.epub) 	 [PDF](pdfs/bestoflesswrongapril2016.pdf)
+* Best of LessWrong: March 2016 	 [EPUB](output/bestoflesswrongmarch2016.epub) 	 [PDF](pdfs/bestoflesswrongmarch2016.pdf)
+* Best of LessWrong: February 2016 	 [EPUB](output/bestoflesswrongfebruary2016.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2016.pdf)
+* Best of LessWrong: January 2016 	 [EPUB](output/bestoflesswrongjanuary2016.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2016.pdf)
+* Best of LessWrong: December 2015 	 [EPUB](output/bestoflesswrongdecember2015.epub) 	 [PDF](pdfs/bestoflesswrongdecember2015.pdf)
+* Best of LessWrong: November 2015 	 [EPUB](output/bestoflesswrongnovember2015.epub) 	 [PDF](pdfs/bestoflesswrongnovember2015.pdf)
+* Best of LessWrong: October 2015 	 [EPUB](output/bestoflesswrongoctober2015.epub) 	 [PDF](pdfs/bestoflesswrongoctober2015.pdf)
+* Best of LessWrong: September 2015 	 [EPUB](output/bestoflesswrongseptember2015.epub) 	 [PDF](pdfs/bestoflesswrongseptember2015.pdf)
+* Best of LessWrong: August 2015 	 [EPUB](output/bestoflesswrongaugust2015.epub) 	 [PDF](pdfs/bestoflesswrongaugust2015.pdf)
+* Best of LessWrong: July 2015 	 [EPUB](output/bestoflesswrongjuly2015.epub) 	 [PDF](pdfs/bestoflesswrongjuly2015.pdf)
+* Best of LessWrong: June 2015 	 [EPUB](output/bestoflesswrongjune2015.epub) 	 [PDF](pdfs/bestoflesswrongjune2015.pdf)
+* Best of LessWrong: May 2015 	 [EPUB](output/bestoflesswrongmay2015.epub) 	 [PDF](pdfs/bestoflesswrongmay2015.pdf)
+* Best of LessWrong: April 2015 	 [EPUB](output/bestoflesswrongapril2015.epub) 	 [PDF](pdfs/bestoflesswrongapril2015.pdf)
+* Best of LessWrong: March 2015 	 [EPUB](output/bestoflesswrongmarch2015.epub) 	 [PDF](pdfs/bestoflesswrongmarch2015.pdf)
+* Best of LessWrong: February 2015 	 [EPUB](output/bestoflesswrongfebruary2015.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2015.pdf)
+* Best of LessWrong: January 2015 	 [EPUB](output/bestoflesswrongjanuary2015.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2015.pdf)
+* Best of LessWrong: December 2014 	 [EPUB](output/bestoflesswrongdecember2014.epub) 	 [PDF](pdfs/bestoflesswrongdecember2014.pdf)
+* Best of LessWrong: November 2014 	 [EPUB](output/bestoflesswrongnovember2014.epub) 	 [PDF](pdfs/bestoflesswrongnovember2014.pdf)
+* Best of LessWrong: October 2014 	 [EPUB](output/bestoflesswrongoctober2014.epub) 	 [PDF](pdfs/bestoflesswrongoctober2014.pdf)
+* Best of LessWrong: September 2014 	 [EPUB](output/bestoflesswrongseptember2014.epub) 	 [PDF](pdfs/bestoflesswrongseptember2014.pdf)
+* Best of LessWrong: August 2014 	 [EPUB](output/bestoflesswrongaugust2014.epub) 	 [PDF](pdfs/bestoflesswrongaugust2014.pdf)
+* Best of LessWrong: July 2014 	 [EPUB](output/bestoflesswrongjuly2014.epub) 	 [PDF](pdfs/bestoflesswrongjuly2014.pdf)
+* Best of LessWrong: June 2014 	 [EPUB](output/bestoflesswrongjune2014.epub) 	 [PDF](pdfs/bestoflesswrongjune2014.pdf)
+* Best of LessWrong: May 2014 	 [EPUB](output/bestoflesswrongmay2014.epub) 	 [PDF](pdfs/bestoflesswrongmay2014.pdf)
+* Best of LessWrong: April 2014 	 [EPUB](output/bestoflesswrongapril2014.epub) 	 [PDF](pdfs/bestoflesswrongapril2014.pdf)
+* Best of LessWrong: March 2014 	 [EPUB](output/bestoflesswrongmarch2014.epub) 	 [PDF](pdfs/bestoflesswrongmarch2014.pdf)
+* Best of LessWrong: February 2014 	 [EPUB](output/bestoflesswrongfebruary2014.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2014.pdf)
+* Best of LessWrong: January 2014 	 [EPUB](output/bestoflesswrongjanuary2014.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2014.pdf)
+* Best of LessWrong: December 2013 	 [EPUB](output/bestoflesswrongdecember2013.epub) 	 [PDF](pdfs/bestoflesswrongdecember2013.pdf)
+* Best of LessWrong: November 2013 	 [EPUB](output/bestoflesswrongnovember2013.epub) 	 [PDF](pdfs/bestoflesswrongnovember2013.pdf)
+* Best of LessWrong: October 2013 	 [EPUB](output/bestoflesswrongoctober2013.epub) 	 [PDF](pdfs/bestoflesswrongoctober2013.pdf)
+* Best of LessWrong: September 2013 	 [EPUB](output/bestoflesswrongseptember2013.epub) 	 [PDF](pdfs/bestoflesswrongseptember2013.pdf)
+* Best of LessWrong: August 2013 	 [EPUB](output/bestoflesswrongaugust2013.epub) 	 [PDF](pdfs/bestoflesswrongaugust2013.pdf)
+* Best of LessWrong: July 2013 	 [EPUB](output/bestoflesswrongjuly2013.epub) 	 [PDF](pdfs/bestoflesswrongjuly2013.pdf)
+* Best of LessWrong: June 2013 	 [EPUB](output/bestoflesswrongjune2013.epub) 	 [PDF](pdfs/bestoflesswrongjune2013.pdf)
+* Best of LessWrong: May 2013 	 [EPUB](output/bestoflesswrongmay2013.epub) 	 [PDF](pdfs/bestoflesswrongmay2013.pdf)
+* Best of LessWrong: April 2013 	 [EPUB](output/bestoflesswrongapril2013.epub) 	 [PDF](pdfs/bestoflesswrongapril2013.pdf)
+* Best of LessWrong: March 2013 	 [EPUB](output/bestoflesswrongmarch2013.epub) 	 [PDF](pdfs/bestoflesswrongmarch2013.pdf)
+* Best of LessWrong: February 2013 	 [EPUB](output/bestoflesswrongfebruary2013.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2013.pdf)
+* Best of LessWrong: January 2013 	 [EPUB](output/bestoflesswrongjanuary2013.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2013.pdf)
+* Best of LessWrong: December 2012 	 [EPUB](output/bestoflesswrongdecember2012.epub) 	 [PDF](pdfs/bestoflesswrongdecember2012.pdf)
+* Best of LessWrong: November 2012 	 [EPUB](output/bestoflesswrongnovember2012.epub) 	 [PDF](pdfs/bestoflesswrongnovember2012.pdf)
+* Best of LessWrong: October 2012 	 [EPUB](output/bestoflesswrongoctober2012.epub) 	 [PDF](pdfs/bestoflesswrongoctober2012.pdf)
+* Best of LessWrong: September 2012 	 [EPUB](output/bestoflesswrongseptember2012.epub) 	 [PDF](pdfs/bestoflesswrongseptember2012.pdf)
+* Best of LessWrong: August 2012 	 [EPUB](output/bestoflesswrongaugust2012.epub) 	 [PDF](pdfs/bestoflesswrongaugust2012.pdf)
+* Best of LessWrong: July 2012 	 [EPUB](output/bestoflesswrongjuly2012.epub) 	 [PDF](pdfs/bestoflesswrongjuly2012.pdf)
+* Best of LessWrong: June 2012 	 [EPUB](output/bestoflesswrongjune2012.epub) 	 [PDF](pdfs/bestoflesswrongjune2012.pdf)
+* Best of LessWrong: May 2012 	 [EPUB](output/bestoflesswrongmay2012.epub) 	 [PDF](pdfs/bestoflesswrongmay2012.pdf)
+* Best of LessWrong: April 2012 	 [EPUB](output/bestoflesswrongapril2012.epub) 	 [PDF](pdfs/bestoflesswrongapril2012.pdf)
+* Best of LessWrong: March 2012 	 [EPUB](output/bestoflesswrongmarch2012.epub) 	 [PDF](pdfs/bestoflesswrongmarch2012.pdf)
+* Best of LessWrong: February 2012 	 [EPUB](output/bestoflesswrongfebruary2012.epub) 	 [PDF](pdfs/bestoflesswrongfebruary2012.pdf)
+* Best of LessWrong: January 2012 	 [EPUB](output/bestoflesswrongjanuary2012.epub) 	 [PDF](pdfs/bestoflesswrongjanuary2012.pdf)
